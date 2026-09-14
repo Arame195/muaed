@@ -1009,7 +1009,7 @@ details.mod .mlessons li.ex .ln {
 }
 
 .a-photo {
-  aspect-ratio: 1;
+  aspect-ratio: 0.9;
   border-radius: 22px;
   overflow: hidden;
   position: relative;
@@ -1028,8 +1028,8 @@ details.mod .mlessons li.ex .ln {
 
 .a-quote {
   font-family: 'Unbounded', sans-serif;
-  font-size: 26px;
-  font-weight: 700;
+  font-size: 19px;
+  font-weight: 600;
   line-height: 1.4;
   letter-spacing: -.02em;
   color: var(--navy-deep);
